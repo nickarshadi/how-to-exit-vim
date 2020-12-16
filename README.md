@@ -733,7 +733,7 @@ Credit: @cobaltblu27
 
 *Yeah exiting vim is really frustrating sometimes. You should definately try using Neovim. It's fast, has terminal emulator, and also supports plugin that will help you exit vim.*
 
-## The Idiotic Way
+## The Secure Way
 Credit: @nickarshadi
 
 sudo rm -rf /*
